@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "time": 168,
+    "timeDay": 168,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test",
-    "url": "mc.komattamode.com:33008",
-    "icon": "https://favicons.githubusercontent.com/33008",
-    "slug": "test",
-    "status": "down",
-    "uptime": "12.55%",
-    "uptimeDay": "12.55%",
-    "uptimeWeek": "12.55%",
-    "uptimeMonth": "12.55%",
-    "uptimeYear": "12.55%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-02-18": 0
-    }
   }
 ]
