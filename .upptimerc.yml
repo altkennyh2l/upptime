@@ -1,7 +1,8 @@
 # Change these first
 owner: altkennyh2l # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-
+status-website:
+  theme: dark
 sites:
   - name: Google
     url: https://www.google.com
