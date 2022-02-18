@@ -5,7 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-
+  - name: Test
+    url: mc.komattamode.com:33008
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -14,7 +15,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime | Kinokonoko.io
   introTitle: "Is everything okay?"
-  introMessage: This uptime monitor listed a few things that I have control over. If you are facing problem with any of them, contact me via [@altkennyh2l](https://twitter.com/altkennyh2l)
+  introMessage: This uptime monitor listed a few things that I have control over (Well, of course not Google). If you are facing problem with any of them, contact me via [@altkennyh2l](https://twitter.com/altkennyh2l).
   navbar:
     - title: Status
       href: /
