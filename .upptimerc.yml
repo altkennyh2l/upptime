@@ -4,8 +4,16 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Minecraft Server (Shotanokitou)
+  - name: Minecraft Server Map Service (Shotanokitou)
     url: "http://mc.komattamode.com:33010/"
+  - name: Minecraft Server (Shotanokitou)
+    check: "tcp-ping"
+    url: mc.komattamode.com
+    port: 33008
+  - name: Minecraft Server (KinokoKoubou)
+    check: "tcp-ping"
+    url: mc.komattamode.com
+    port: 33009
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
