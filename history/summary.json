@@ -22,19 +22,19 @@
     "url": "https://cs-webhook.herokuapp.com/",
     "icon": "https://favicons.githubusercontent.com/cs-webhook.herokuapp.com",
     "slug": "chihiro-sannomiya-core-additional",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 211,
-    "timeDay": 211,
-    "timeWeek": 211,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "status": "up",
+    "uptime": "97.81%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
+    "time": 3278,
+    "timeDay": 3278,
+    "timeWeek": 3278,
+    "timeMonth": 3278,
+    "timeYear": 3278,
     "dailyMinutesDown": {
-      "2022-02-24": 0
+      "2022-02-24": 31
     }
   },
   {
