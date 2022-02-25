@@ -10,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 357,
-    "timeWeek": 148,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "time": 140,
+    "timeDay": 195,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "ChihiroSannomiya-Core (Additional)",
+    "url": "https://cs-webhook.herokuapp.com/",
+    "icon": "https://favicons.githubusercontent.com/cs-webhook.herokuapp.com",
+    "slug": "chihiro-sannomiya-core-additional",
+    "status": "up",
+    "uptime": "98.36%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
+    "time": 2522,
+    "timeDay": 4833,
+    "timeWeek": 2522,
+    "timeMonth": 2522,
+    "timeYear": 2522,
+    "dailyMinutesDown": {
+      "2022-02-24": 31
+    }
   },
   {
     "name": "Minecraft Server Map Service (Shotanokitou)",
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 335,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "time": 324,
+    "timeDay": 340,
+    "timeWeek": 324,
+    "timeMonth": 324,
+    "timeYear": 324,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 125,
+    "time": 133,
     "timeDay": 143,
-    "timeWeek": 125,
-    "timeMonth": 125,
-    "timeYear": 125,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
+    "time": 190,
     "timeDay": 142,
-    "timeWeek": 205,
-    "timeMonth": 205,
-    "timeYear": 205,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   }
 ]
