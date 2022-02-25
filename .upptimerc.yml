@@ -21,7 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: up.kinokonoko.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/altkennyh2l/upptime/blob/master/assets/mushroom.png?raw=true
   name: Upptime | Kinokonoko.io
   theme: dark
   introTitle: "Is everything okay?"
