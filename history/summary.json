@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/cs-webhook.herokuapp.com",
     "slug": "chihiro-sannomiya-core-additional",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 1581,
     "timeDay": 315,
     "timeWeek": 1581,
@@ -42,9 +42,9 @@
     "url": "http://mc.komattamode.com:33010/",
     "icon": "https://favicons.githubusercontent.com/mc.komattamode.com",
     "slug": "minecraft-server-map-service-shotanokitou",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 314,
     "timeMonth": 314,
     "timeYear": 314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-27": 0
+    }
   },
   {
     "name": "Minecraft Server (UmaibouKoubou)",
