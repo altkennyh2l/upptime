@@ -6,7 +6,7 @@ sites:
     url: https://www.google.com
   - name: ChihiroSannomiya-Core (Additional)
     url: https://cs-webhook.herokuapp.com/
-  - name: Minecraft Server Map Service (Shotanokitou)
+  - name: Minecraft Server Map Service (UmaibouKoubou)
     url: "http://mc.komattamode.com:33010/"
   - name: Minecraft Server (UmaibouKoubou)
     check: "tcp-ping"
