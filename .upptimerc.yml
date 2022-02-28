@@ -4,6 +4,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Code-server
+    url: https://code.kinokonoko.io
   - name: ChihiroSannomiya-Core (Additional)
     url: https://cs-webhook.herokuapp.com/
   - name: Minecraft Server Map Service (UmaibouKoubou)
