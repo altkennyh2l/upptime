@@ -22,9 +22,9 @@
     "url": "https://code.kinokonoko.io",
     "icon": "https://favicons.githubusercontent.com/code.kinokonoko.io",
     "slug": "code-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 530,
     "timeMonth": 541,
     "timeYear": 554,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-03": 0
+    }
   },
   {
     "name": "ChihiroSannomiya-Core (Additional)",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/cs-webhook.herokuapp.com",
     "slug": "chihiro-sannomiya-core-additional",
     "status": "up",
-    "uptime": "79.88%",
+    "uptime": "79.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "29.29%",
+    "uptimeWeek": "29.85%",
     "uptimeMonth": "74.71%",
-    "uptimeYear": "79.88%",
+    "uptimeYear": "79.90%",
     "time": 594,
     "timeDay": 306,
     "timeWeek": 1123,
