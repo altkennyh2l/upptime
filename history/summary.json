@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/code.kinokonoko.io",
     "slug": "code-server",
     "status": "down",
-    "uptime": "79.19%",
+    "uptime": "79.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.54%",
-    "uptimeYear": "79.19%",
+    "uptimeMonth": "46.37%",
+    "uptimeYear": "79.14%",
     "time": 483,
     "timeDay": 251,
     "timeWeek": 260,
     "timeMonth": 354,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2022-05-18": 107,
+      "2022-05-18": 182,
       "2022-05-17": 1440,
       "2022-05-16": 1440,
       "2022-05-15": 1440,
@@ -61,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/cs-webhook.herokuapp.com",
     "slug": "chihiro-sannomiya-core-additional",
     "status": "up",
-    "uptime": "83.91%",
+    "uptime": "83.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.28%",
-    "uptimeYear": "83.91%",
+    "uptimeYear": "83.92%",
     "time": 538,
     "timeDay": 64,
     "timeWeek": 190,
@@ -134,9 +134,9 @@
     "url": "mc.komattamode.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "minecraft-server-shotanokitou",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,6 +145,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   }
 ]
