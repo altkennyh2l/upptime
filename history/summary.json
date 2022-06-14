@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/cs-webhook.herokuapp.com",
     "slug": "chihiro-sannomiya-core-additional",
     "status": "up",
-    "uptime": "81.83%",
+    "uptime": "81.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "78.15%",
-    "uptimeYear": "81.83%",
+    "uptimeYear": "81.90%",
     "time": 496,
     "timeDay": 219,
     "timeWeek": 180,
@@ -66,9 +66,9 @@
     "url": "http://mc.komattamode.com:33010/",
     "icon": "https://favicons.githubusercontent.com/mc.komattamode.com",
     "slug": "minecraft-server-map-service-umaibou-koubou",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -78,6 +78,7 @@
     "timeMonth": 328,
     "timeYear": 326,
     "dailyMinutesDown": {
+      "2022-06-14": 0,
       "2022-05-06": 18
     }
   },
